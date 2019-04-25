@@ -1,2 +1,2 @@
 # SoftwareArchitecture
-Course #3 
+Software Architecture, University of Alberta
